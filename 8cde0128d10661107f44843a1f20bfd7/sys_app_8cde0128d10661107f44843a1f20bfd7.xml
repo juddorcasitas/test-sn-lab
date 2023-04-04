@@ -22,7 +22,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_cdltd_loaner_req</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000001843</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
@@ -35,7 +35,7 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=8cde0128d10661107f44843a1f20bfd7"/>
 </record_update>
